@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 [Checkout my CV here](https://jvrana.github.io/markdown-cv/)
 
